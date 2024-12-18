@@ -1,0 +1,16 @@
+pyscard
+pyserial
+pytlv
+cmd2>=1.5
+jsonpath-ng
+construct>=2.9.51
+bidict
+pyosmocom>=0.0.3
+pyyaml>=5.1
+termcolor
+colorlog
+pycryptodomex
+cryptography
+git+https://github.com/osmocom/asn1tools
+packaging
+git+https://github.com/hologram-io/smpp.pdu
